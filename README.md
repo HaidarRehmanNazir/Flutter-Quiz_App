@@ -46,8 +46,7 @@ Experience the thrill of learning and challenging yourself with the Quiz App. Si
 
 
 
-Download App-----------------
-<a href="[https://github.com/HaidarRehmanNazir/Compass-Hero-Flutter-App/releases/download/compass/app-release.apk](https://github.com/HaidarRehmanNazir/Flutter-Quiz_App/releases/download/PQuiz/app-release.apk)">![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEhYpupn21Uc1_DaEpINY5DMdfcIisS0T0lu4vSOMnZ6pqaTuOIJli4tpqb0eWXUL390G6TWpqbxJn-1GJjxvMGal5SUYPgo2foDYsW9yA3K3ZYByrRsqa3JIJ40OYJcMebOMwM5cfjWsBb3AUZQEE6yRt1ZiUKZcf1lXUxMX08hJqrdtBjF2pC-WV2i)</a>
+
 
 
 
