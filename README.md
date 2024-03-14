@@ -35,6 +35,11 @@ Create Your Own Quizzes: 🎨 Unleash your creativity by designing and sharing y
 📱 Get Started:
 Experience the thrill of learning and challenging yourself with the Quiz App. Simply download the app, dive into the world of quizzes, and embark on an exciting journey of knowledge discovery. 🌐
 
+![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEgRlsvo4D3p1n0PVXL-fE-d2U8FFEgiZYi32lA0v-pSa1Nj55wBfDLk61gpgP9OyqqaM5rtjxZPilLwaGjWJXfz-4SnJHQQ84KYtKpOShmhhe0Pp5YEft0JwphrIDtciI4ROFbE8Z7gnj9GoFCPfmph0Wy85-W9JcQ2-XvYDmUBVWK_-9ex3Txzs3RM)
+
+
+
+
 
 ## Tech Stack
 
@@ -44,4 +49,9 @@ Experience the thrill of learning and challenging yourself with the Quiz App. Si
 
 
 ![Logo](https://blogger.googleusercontent.com/img/a/AVvXsEgRlsvo4D3p1n0PVXL-fE-d2U8FFEgiZYi32lA0v-pSa1Nj55wBfDLk61gpgP9OyqqaM5rtjxZPilLwaGjWJXfz-4SnJHQQ84KYtKpOShmhhe0Pp5YEft0JwphrIDtciI4ROFbE8Z7gnj9GoFCPfmph0Wy85-W9JcQ2-XvYDmUBVWK_-9ex3Txzs3RM)
+
+
+## Authors
+
+- [@Haidar Rehman](https://github.com/HaidarRehmanNazir)
 
