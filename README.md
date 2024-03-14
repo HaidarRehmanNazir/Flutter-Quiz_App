@@ -6,6 +6,10 @@ Welcome to the Quiz App, where learning meets fun! 🚀 Challenge yourself with 
 
 ## Screenshots
 
+
+![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEg34i4M84MYWsvINnjDsmiKk4Kkecb1oVCxIMymnT7_jh-FnESiZ3C3qKDoXxyi-wYFPomNmXD0jv_uLo8cTB67wWayPl7BAP_T20f7DHm_fv0_J1BO9gSOCUzf5KMKL9azg4bmVUow79zzZuvURMdD649G-InBUuSxVPy-7K74zb3zz8URkDKZfPgK)
+
+
 ![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEjwvcY6_cOu49AzUfpEe898Y222yL2ElRdfMhWSc3nO6MnBTNTqiKbSDhKzQURKkzJy5JMk8wdDUXMGI6NU2ciEFfwAVWTT-QIJGSFSwj1PXXdlsz06fh6VDjtZfzoDDv-fSaZYdjrQf9EJCwDoaD7NNROHAfoJ9LTKfQR_EVAmxDhcvFG6aCMCorFB)
 
 
@@ -14,7 +18,6 @@ Welcome to the Quiz App, where learning meets fun! 🚀 Challenge yourself with 
 
 ![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEiqpdsOS5700v-6wxWgO_L-BxE5EkHZVRdVwi0RYV_sLiJtgxFtrCZfs6MBpdSEHbEFn9RsaphoD64nA2qUxnqJTb0grPmGMXcKxgtngzqTLJdLkCYKZy3HRtoAF-x0il0FWSRRprhv-d-P9gItlhiMQNijLE2jItwqUGNM2s8gYuxTBvgIzX0MykKw)
 
-![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEgRlsvo4D3p1n0PVXL-fE-d2U8FFEgiZYi32lA0v-pSa1Nj55wBfDLk61gpgP9OyqqaM5rtjxZPilLwaGjWJXfz-4SnJHQQ84KYtKpOShmhhe0Pp5YEft0JwphrIDtciI4ROFbE8Z7gnj9GoFCPfmph0Wy85-W9JcQ2-XvYDmUBVWK_-9ex3Txzs3RM)
 
 
 
